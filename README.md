@@ -6,15 +6,17 @@ Análisis de datos de una cadena de supermercados realizado por el equipo los 4 
 Se realizó un análisis detallado de sus reportes de ventas de los últimos 4 años. El objetivo principal es extraer insights clave de los datos y proporcionar información valiosa que beneficie su negocio.
 
 ## Herramientas utilizadas
+- Colab
 - Python
   - Libreria Pandas
   - Libreria Matplotlib
-- Colab
 
 ## Configuración del Ambiente
 Se realizó el trabajo en google Colab con los siguientes pasos:
 - Configuración del Ambiente
 - Obtención y tratamiento de datos
+
+El archivo Supermarket_sales_Analysis.ipynb es el código escrito en colab el cual contiene todas las operaciones de analisis, limpieza de datos e Insights.
 
 ## Insights
 1. ¿Cuáles son las ventas totales por año? ¿Y qué año tuvo mejor desempeño?
